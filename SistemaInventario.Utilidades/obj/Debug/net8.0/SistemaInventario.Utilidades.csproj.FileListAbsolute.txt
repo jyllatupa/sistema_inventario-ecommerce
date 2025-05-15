@@ -1,0 +1,12 @@
+D:\Proyectos\UDEMY\Asp.Net Core\05.SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\bin\Debug\net8.0\SistemaInventario.Utilidades.deps.json
+D:\Proyectos\UDEMY\Asp.Net Core\05.SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\bin\Debug\net8.0\SistemaInventario.Utilidades.dll
+D:\Proyectos\UDEMY\Asp.Net Core\05.SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\bin\Debug\net8.0\SistemaInventario.Utilidades.pdb
+D:\Proyectos\UDEMY\Asp.Net Core\05.SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net8.0\SistemaInventario.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\UDEMY\Asp.Net Core\05.SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net8.0\SistemaInventario.Utilidades.AssemblyInfoInputs.cache
+D:\Proyectos\UDEMY\Asp.Net Core\05.SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net8.0\SistemaInventario.Utilidades.AssemblyInfo.cs
+D:\Proyectos\UDEMY\Asp.Net Core\05.SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net8.0\SistemaInventario.Utilidades.csproj.CoreCompileInputs.cache
+D:\Proyectos\UDEMY\Asp.Net Core\05.SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net8.0\SistemaInventario.Utilidades.sourcelink.json
+D:\Proyectos\UDEMY\Asp.Net Core\05.SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net8.0\SistemaInventario.Utilidades.dll
+D:\Proyectos\UDEMY\Asp.Net Core\05.SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net8.0\refint\SistemaInventario.Utilidades.dll
+D:\Proyectos\UDEMY\Asp.Net Core\05.SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net8.0\SistemaInventario.Utilidades.pdb
+D:\Proyectos\UDEMY\Asp.Net Core\05.SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net8.0\ref\SistemaInventario.Utilidades.dll
